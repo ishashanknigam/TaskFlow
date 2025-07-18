@@ -10,9 +10,6 @@ Manage, organize, and streamline your personal or team workflows effortlessly.
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 
 ## About
 
