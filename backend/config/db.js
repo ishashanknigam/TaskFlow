@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const connectDB = async () => {
   await mongoose
     .connect(
-      "mongodb+srv://shashanktechx:admin1234@cluster0.luallp5.mongodb.net/TaskFlow"
+      secrets.DB_URL
     )
     .then(() => {
       console.log("DB connected successfully.");
