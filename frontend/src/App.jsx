@@ -2,7 +2,7 @@ import { Navigate, Outlet, Route, Routes, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
 import Layout from "./components/Layout";
 import Login from "./components/Login";
-import SignUp from "./components/Signup";
+import SignUp from "./components/SignUp";
 import Dashboard from "./pages/Dashboard";
 import PendingPage from "./pages/PendingPage";
 import CompletePage from "./pages/CompletePage";
